@@ -1,3 +1,5 @@
+![Now!](https://github.com/user-attachments/assets/f8a32919-4ef6-4ad0-9b65-2aeb4519f8f0)
+___
 # curso de python desde cero
 ___
 Python es un lenguaje de programación ampliamente utilizado, conocido por su sintaxis sencilla y su versatilidad. Es ideal tanto para principiantes como para programadores experimentados. Durante este curso, aprenderás desde los conceptos básicos hasta temas más avanzados, como el manejo de datos, automatización de tareas, y desarrollo web.
@@ -37,3 +39,23 @@ ___
 ### 3.2 características de los ciclos
 - ciclo for
 - ciclo while
+
+## 4. funciones y estructuras de datos
+
+### 4.1 funciones en python
+- sentencia def
+- funciones con parámetros
+- dunciones con parámetros osicionales
+### 4.2 Estructuras de datos en python 
+- listas en python
+- tuplas
+- diccionarios
+- conjuntos
+
+## 5. POO en python
+
+### 5.1 programacion orientada a objetos
+- creacion de clases, objetos y métodos
+- encapsulamiento
+- herencia
+- polimorfismo 
