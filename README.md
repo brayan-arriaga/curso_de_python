@@ -58,4 +58,14 @@ ___
 - creacion de clases, objetos y métodos
 - encapsulamiento
 - herencia
-- polimorfismo 
+- polimorfismo
+___
+
+# Resumen de Habilidades Obtenidas al finalizar el curso:
+
+- Fundamentos de Python: Instalación, configuración y primeros pasos.
+- Programación básica: Manejo de variables, operadores, condicionales, ciclos, y funciones.
+- Estructuras de datos: Manipulación de listas, tuplas, diccionarios y conjuntos.
+- Programación Orientada a Objetos: Conceptos clave como clases, objetos, encapsulamiento, herencia y polimorfismo.
+
+Con estas habilidades, estarías bien preparado para abordar problemas de programación más complejos y sentar una base sólida para especializarte en áreas más avanzadas, como el desarrollo web, ciencia de datos, o ciberseguridad.
